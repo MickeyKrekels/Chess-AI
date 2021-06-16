@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ChessApp.Properties
+namespace Chest_Game.Properties
 {
 
 

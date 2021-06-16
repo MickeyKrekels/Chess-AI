@@ -1,0 +1,10 @@
+C:\Users\micke\source\repos\Chest_Game\Chest_Game\bin\Debug\Chest_Game.exe.config
+C:\Users\micke\source\repos\Chest_Game\Chest_Game\bin\Debug\Chest_Game.exe
+C:\Users\micke\source\repos\Chest_Game\Chest_Game\bin\Debug\Chest_Game.pdb
+C:\Users\micke\source\repos\Chest_Game\Chest_Game\obj\Debug\Chess_Game.csprojAssemblyReference.cache
+C:\Users\micke\source\repos\Chest_Game\Chest_Game\obj\Debug\Chest_Game.Form1.resources
+C:\Users\micke\source\repos\Chest_Game\Chest_Game\obj\Debug\Chest_Game.Properties.Resources.resources
+C:\Users\micke\source\repos\Chest_Game\Chest_Game\obj\Debug\Chess_Game.csproj.GenerateResource.cache
+C:\Users\micke\source\repos\Chest_Game\Chest_Game\obj\Debug\Chess_Game.csproj.CoreCompileInputs.cache
+C:\Users\micke\source\repos\Chest_Game\Chest_Game\obj\Debug\Chest_Game.exe
+C:\Users\micke\source\repos\Chest_Game\Chest_Game\obj\Debug\Chest_Game.pdb
